@@ -1,0 +1,80 @@
+/* primary color: #f9a825
+light color: #ffd95a
+dark color: #c17900 */
+
+body {
+    background: #000000;
+    font-family: 'Vollkorn', serif;
+    position: fixed center;
+}
+.container {
+    background: #000000 url('images/beerfoam.gif') fixed;
+    background-size: cover;
+    width: auto;
+    height: 800px;
+    align-items: fixed center;
+    position: fixed center;
+    color: #ffd95a;
+    border: 5px #ffd95a solid;
+}
+
+#numbers {
+    margin: 5em 2em 0 55em;
+    border: #f9a825 1px solid;
+    padding: 0px;
+    color: #FFFFFF;
+    background-color:#c17900;
+    position: relative;
+}
+
+.question_box {
+    color: #FFFFFF;
+    margin: 2em 0 0 5em;
+}
+
+#optionsdiv {
+    margin: 0em 0 0 10em;
+    color: #f9a825;
+}
+
+#answer {
+    text-align: center;
+    color: #FFFFFF;
+    margin: 0 0 0 20em;
+    background-color:#c17900;
+    position: fixed center;
+}
+
+#gamerules {
+    text-align: center;
+    color: #FFFFFF;
+    margin: 0 0 0 20em;
+    background-color:#c17900;
+    position: fixed center;
+}
+
+#next-level {
+    text-align: center;
+    color: #FFFFFF;
+    margin: 0 0 0 20em;
+    background-color:#c17900;
+    position: fixed center;
+}
+
+#timeout {
+    text-align: center;
+    color: #FFFFFF;
+    margin: 0 0 0 20em;
+    background-color:#c17900;
+    position: fixed center;
+}
+
+#score-time {
+    display: inline-block;
+    padding: 0px;
+    margin: 0 2em 0 55em;
+    color: #FFFFFF;
+    background-color:#c17900;
+    border: #f9a825 1px solid;
+    position: relative;
+}
