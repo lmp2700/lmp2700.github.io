@@ -8,7 +8,7 @@ body {
     position: fixed center;
 }
 .container {
-    background: #000000 url('images/beerfoam.gif') fixed;
+    background: #000000 url('https://github.com/lmp2700/lmp2700.github.io/blob/master/cicerone/css/images/beerfoam.gif') fixed;
     background-size: cover;
     width: auto;
     height: 800px;
