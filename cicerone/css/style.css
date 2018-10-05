@@ -8,7 +8,7 @@ body {
     position: fixed center;
 }
 .container {
-    background: #000000 url('file:///Users/lizsteakphoto/GA/Deployed-Projects/cicerone/images/beerfoam.gif') fixed;
+    background: #000000 url('images/beerfoam.gif') fixed;
     background-size: cover;
     width: auto;
     height: 800px;
